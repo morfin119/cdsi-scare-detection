@@ -1,0 +1,46 @@
+ESTEBAN 00:35:04 (h:min:s)
+	Comienzo	10 min			600
+	Susto		~27:30 min		1,650
+	FIN		~28:30 min			1,710
+
+ERNESTO 00:30:02 (h:min:s)
+	Comienzo	6 min			360					
+	Susto		10:45 min		645			
+	Susto		12:20 min		740			
+	Susto		14:20 min		860			
+	Tensión		19:50 min		1,190		
+	FIN			26:30 min		1,590		
+
+JOAN 00:41:03 (h:min:s)
+	Comienzo	5 min			300			
+	Susto		12 min			720			
+	Susto		21:30 min		1,290		
+	Tension		27 min			1,620		
+	Tension		30:20 min		1,820		
+	FIN			36 min			2,160		
+
+MORF 00:35:04 (h:min:s)
+	Comienzo	6 min			360		
+	Susto		13:20 min		800		
+	Susto		15:30 min		930			 
+	Susto		16 min			960		
+	Susto		17:30 min		1,050	
+	Tension		20:40 min		1,240		
+	Susto		25:10 min		1,510		
+	FIN			30:20 min		1,820	
+
+RICARDO 00:30:03 (h:min:s)
+	Comienzo	ARCHIVO EXTRA
+	Susto		11:40 min		700
+	Susto		19:15 min		1,155
+	FIN			22:20 min		1,340
+
+HUSSEIN 00:40:13 (h:min:s)
+	Comienzo	8:50 min		530			
+	Tension		20:00 min		1,200		
+	Tension		28:40 min		1,720		
+	FIN			35:00 min		2,100		
+
+SARID 00:45:03 (h:min:s)
+	Comienzo 5 min				300
+	
